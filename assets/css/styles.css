@@ -1339,7 +1339,6 @@ select::-ms-expand {
 .point__title {
   padding-top: 80px;
   padding-top: 5rem;
-  text-align: left;
 }
 
 .point__items {
